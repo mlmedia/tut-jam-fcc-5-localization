@@ -1,11 +1,11 @@
-# JAMStack Tutorial - Part 4
+# JAMStack Tutorial - Part 5
 JAMStack tutorial using JAMStack, 11ty (Eleventy), and Netlify from [https://gist.github.com/philhawksworth/467bb34b954fe1c16f55c770bc0407cb](https://gist.github.com/philhawksworth/467bb34b954fe1c16f55c770bc0407cb).  Tutorial by Phil Hawksworth from Netlify.
 
 ## Reference
-[https://www.freecodecamp.org/news/jamstack-full-course/](https://www.freecodecamp.org/news/jamstack-full-course/)
+- [https://www.freecodecamp.org/news/jamstack-full-course/](https://www.freecodecamp.org/news/jamstack-full-course/)
 
 ## Video
-[https://www.youtube.com/watch?v=A_l0qrPUJds&feature=youtu.be](https://www.youtube.com/watch?v=A_l0qrPUJds&feature=youtu.be)
+- [https://www.youtube.com/watch?v=A_l0qrPUJds&feature=youtu.be](https://www.youtube.com/watch?v=A_l0qrPUJds&feature=youtu.be)
 
 ## Code hosted at GitHub
 - [Example 1 - All simply static](https://github.com/philhawksworth/fcc-1-simply-static)
