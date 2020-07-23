@@ -15,3 +15,5 @@ JAMStack tutorial using JAMStack, 11ty (Eleventy), and Netlify from [https://gis
 - [Example 5 - Generating localized pages, with geo-IP routing at the CDN](https://github.com/philhawksworth/fcc-5-localized-news)
 - [Example 6 - Client-side rendering targeted API content](https://github.com/philhawksworth/fcc-6-client-side-api)
 
+## Hosted demo
+- [https://fcc-5-localized-news.netlify.app/](https://fcc-5-localized-news.netlify.app/)
